@@ -1,0 +1,64 @@
+.continents{
+    margin-bottom: 170px;
+}
+
+.continents__info{
+    width: 1045px;
+    padding-left: 85px;
+    // margin-left: 85px;
+}
+
+
+.continents__title{
+ font-family: Fraunces;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+padding-bottom: 85px
+}
+
+
+.continents__list{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+    
+
+.continents__box{
+    width: 285px;
+}
+    
+
+
+
+.continents__image-box{
+    width: 52px;
+   height: 52px;
+   margin-bottom: 45px;
+}
+
+.continents__titles{
+font-family: Fraunces;
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 36px;
+color: #333D4B;
+}
+
+
+.continents__text{
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    
+}
+
